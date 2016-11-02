@@ -36,6 +36,7 @@ public class SuperSet extends ExpansionSet {
         cards.add(new SetCardInfo("Öbergs Wisdom", 1, Rarity.MYTHIC, ObergsWisdom.class));
         cards.add(new SetCardInfo("Clone Commander", 2, Rarity.MYTHIC, CloneCommander.class));
         cards.add(new SetCardInfo("Merfolk Crawler", 3, Rarity.RARE, MerfolkCrawler.class));
+        cards.add(new SetCardInfo("Soul Collection", 4, Rarity.RARE, SoulCollection.class));
     }
     
 }
